@@ -1,2 +1,3 @@
 # Vijay_surya_Repo
-basics
+
+basics Android project With Detailed Explinations for Biggners only
